@@ -71,13 +71,6 @@ state: 8, c: 2, last state: 0
 state: 6, c: Z, last state: 0
 Z
 ```
-
-Si el analizador encuentra un carácter inesperado, mostrará un mensaje de error:
-
-```
-Error
-```
-
 ---
 
 ## Cómo Funciona
